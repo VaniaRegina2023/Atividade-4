@@ -1,0 +1,25 @@
+/* src/pages/Contact.css */
+
+.contact-container {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    color: red; /* Cor das letras vermelha */
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: calc(100% - 10px); /* Faz com que a largura do input seja ajustada de acordo com o tamanho da caixa */
+    padding: 5px;
+  }
+  
